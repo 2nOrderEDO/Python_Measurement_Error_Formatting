@@ -1,6 +1,6 @@
 # Python Error Formatting function
 
-Give this function a **value** and its **error/uncertainity** (145.7 and 3.4) and returns a string with scientific format (146 ± 3)  with one significant digit error and the correct number of significant digits for the value.
+This function takes two floats, a **value** and its **error/uncertainity** (145.7 and 3.4) and returns a **string** with scientific format (146 ± 3) showing one significant digit error and the correct number of significant digits for the value given the specified error.
 
 Example: | Output
 ---|---
